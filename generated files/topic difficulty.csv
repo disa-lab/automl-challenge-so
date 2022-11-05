@@ -1,0 +1,14 @@
+"Topic","Category","FusedD","Med Hrs. to Acc","W/O Acc."
+"Model Load & Deployment","MLOps",1.75,45.9,70.0
+"Model Training & Monitoring","Model",1.4,32.0,72.0
+"Pipeline Automation","MLOps",1.09,22.9,63.0
+"Model Design","Model",1.05,21.3,63.0
+"Bot Development","MLOps",1.04,19.2,69.0
+"Resource Management","MLOps",0.97,17.4,65.0
+"Data Transformation","Data",0.96,17.9,63.0
+"Library/Platform Management","MLOps",0.9,15.9,62.0
+"Model Debugging","Model",0.88,12.6,70.0
+"Model Performance","Model",0.79,12.1,60.0
+"Data Exploration","Data",0.77,11.6,60.0
+"Library Documentation","Documentation",0.76,14.2,49.0
+"Data Management","Data",0.63,5.0,63.0

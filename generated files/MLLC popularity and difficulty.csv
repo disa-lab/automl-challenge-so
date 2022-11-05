@@ -1,0 +1,7 @@
+"MLLC","total_questions","fusedP","fusedD"
+"Requirement Analysis",20,0.96,1.72
+"Data Preparation",87,0.97,0.67
+"Model Designing",65,1.11,0.79
+"Model Training",99,1.11,0.64
+"Model Evaluation",32,1.0,1.09
+"Model Deployment \& Monitoring",45,0.85,1.1

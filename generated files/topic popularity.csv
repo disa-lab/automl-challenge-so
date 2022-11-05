@@ -1,0 +1,14 @@
+"Topic","Category","FusedP","#View","#Favorite","#Score"
+"Model Performance","Model",1.46,892.4,0.3,1.2
+"Model Load & Deployment","MLOps",1.31,665.7,0.3,1.1
+"Library/Platform Management","MLOps",1.26,983.5,0.2,1.1
+"Data Transformation","Data",1.26,1054.9,0.2,1.0
+"Resource Management","MLOps",1.06,625.0,0.2,1.0
+"Pipeline Automation","MLOps",1.01,513.9,0.2,1.0
+"Model Design","Model",0.91,546.9,0.2,0.7
+"Model Debugging","Model",0.9,786.7,0.1,0.9
+"Data Management","Data",0.87,1047.8,0.1,0.5
+"Library Documentation","Documentation",0.85,672.2,0.1,0.9
+"Bot Development","MLOps",0.82,602.5,0.1,0.9
+"Data Exploration","Data",0.66,671.4,0.1,0.4
+"Model Training & Monitoring","Model",0.64,376.9,0.1,0.7
