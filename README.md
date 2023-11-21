@@ -20,8 +20,11 @@ The extracted questions and answers based on these final tags are in our dataset
 
 ### Replication Materials to Answer to RQs in the paper:
 - __'Codes'__ folder includes all the data and code we used to filter data, run topic modeling, generate graphs, charts, tables etc inside a Jupyter notebook.
+- __'code/Utilites'__: This contains helper method used in this project.
 - __generated files__: It contains the intermediary filed generated for RQ1, RQ2, and RQ3 results.
 - __RQ1 supporting files__: TopicModeling.zip
 - __RQ3 supporting files__: topic popularity.csv, topic difficulty.csv
+- __environment.yml__: This contains the anaconda environment used in this project. Python version 3.8 or higher is required for this project.
+
 
 
